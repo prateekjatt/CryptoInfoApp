@@ -1,0 +1,3 @@
+Crypto Info is a cryptocurrency information provider. Users can track top 100 crypto currency of market ranked by total market capitalization and providing information about current market price and price change percentage.
+It uses CoinGecko API to get current crypto market data.
+App Designed and Developed By Prateek Kumar.
